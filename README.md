@@ -1,0 +1,1 @@
+This is not my first git project lol. But it's fun to learn!
